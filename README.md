@@ -74,6 +74,10 @@ This project is licensed under the MIT license.
 
 ## Questions
 For any questions, please contact me:
+<<<<<<< HEAD
 - GitHub: [Pokepoison](https://github.com/Pokepoison)
 
   
+=======
+- GitHub: [pokepoison](https://github.com/pokepoison)
+>>>>>>> bce06e2b842c8fd9232161f77d6aaafa757d9707
